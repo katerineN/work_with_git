@@ -33,5 +33,6 @@ public class Main {
 
         if (sum % 3 != 0) System.out.println(sum);
         else System.out.println(sum - mindif);
+        System.out.println("hello");
     }
 }
